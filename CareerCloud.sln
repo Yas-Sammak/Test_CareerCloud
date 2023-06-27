@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloud.WebAPI", "Caree
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloudCore.UnitTests.Assignment5", "CareerCloudCore.UnitTests.Assignment5\CareerCloudCore.UnitTests.Assignment5.csproj", "{8EF0A31E-BDA5-461C-8D13-9F8358D73A08}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerCloud.gRPC", "CareerCloud.gRPC\CareerCloud.gRPC.csproj", "{AB61B16F-0A47-47BD-8CB6-A326163493E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{8EF0A31E-BDA5-461C-8D13-9F8358D73A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EF0A31E-BDA5-461C-8D13-9F8358D73A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EF0A31E-BDA5-461C-8D13-9F8358D73A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB61B16F-0A47-47BD-8CB6-A326163493E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB61B16F-0A47-47BD-8CB6-A326163493E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB61B16F-0A47-47BD-8CB6-A326163493E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB61B16F-0A47-47BD-8CB6-A326163493E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
